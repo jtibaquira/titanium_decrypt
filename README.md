@@ -1,5 +1,6 @@
 ## titanium_decrypt
 titanium_decrypt extracts the encrypted Javascript source files from an Appcelarator Titanium android app.
+This tool is based on [these blackhat conference slides](https://www.blackhat.com/docs/asia-15/materials/asia-15-Grassi-The-Nightmare-Behind-The-Cross-Platform-Mobile-Apps-Dream.pdf).
 
 ### Requirements
 You need to install the following:
